@@ -140,7 +140,7 @@ webview://https://yangshipin.cn/tv/home?pid=600190402
 webview://https://yangshipin.cn/tv/home?pid=600002520
 
 webview://https://www.cztv.com/liveTV
-#EXTINF:-1 tvg-name="神医喜来乐"
+#EXTINF:-1 tvg-name="神医喜来乐"group-title="卫视",天津卫视
 webview://https://www.yy.com/1382714119/1382714119
 
 我是特种兵何晨光,webview://https://www.yy.com/37999586/37999586
@@ -158,4 +158,5 @@ webview://https://www.yy.com/1382714119/1382714119
 武林外传,webview://https://www.yy.com/1355652820/1355652820#/entertainment
 
 小宝与康熙,webview://https://www.huya.com/26355806
+
 
